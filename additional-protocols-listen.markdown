@@ -1,3 +1,8 @@
+---
+:layout: default
+:subdomain: listen.software-for-your-head
+
+
 
 
 ## Listen
